@@ -7,4 +7,15 @@ tr.bg-red {
 }
 tr.bg-blue {
 	background-color: blue;
-} 
+}  
+.left{
+	text-align: left;
+	
+}
+.center{
+	text-align: center;
+}
+.size{
+	width: 200px; 
+	height: 200px;
+}
